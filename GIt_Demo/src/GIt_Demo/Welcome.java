@@ -5,6 +5,7 @@ public class Welcome {
 	{
 		System.out.println("Welcome to git");
 		System.out.println("Pushingg the code to gitHub");
+		System.out.println("Pulling the code to gitHub");
 		
 	}
 
